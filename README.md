@@ -37,8 +37,8 @@
 <h3 align="center">GitHub Stats:</h3>
 <div align="center">
   
-  ![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-github&show_icons=true&theme=radical)
+  ![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpfcordeiro&show_icons=true&theme=radical)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-github&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpfcordeiro&layout=compact&theme=radical)
 
 </div>
