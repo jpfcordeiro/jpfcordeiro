@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-- 🌱 I’m currently learning **Python, React, Node.js, MongoDB**
+- 🌱 I’m currently learning **Python Flask, React, Node.js, MongoDB**
 
 - ⚡ What I like to do: **I like to play videogames, soccer, and coding**
 
