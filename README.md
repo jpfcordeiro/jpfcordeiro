@@ -16,16 +16,17 @@
 <div align="center">
   <p>
     <a href="https://open.spotify.com/intl-pt/artist/0SsoLRIRC2NSNaL6za7ZGk?si=IPun4P5lSY2t0Dspypu_tw" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Spotify_Logo_2015.svg" alt="Spotify" width="30" height="30"> Follow me on Spotify
+      <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
     </a>
   </p>
 
   <p>
     <a href="https://www.tiktok.com/@sndhvnoficial?_t=ZM-90K5NAi98Zc&_r=1" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TikTok_logo_2021.svg" alt="TikTok" width="30" height="30"> Follow me on TikTok
+      <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok" alt="TikTok">
     </a>
   </p>
 </div>
+
 
 
 <h3 align="center">Languages and Tools: <img src="https://cdn3.emoji.gg/emojis/65551-colette-cry.gif" width="48px" height="48px" alt="Colette_Cry"></h3>
