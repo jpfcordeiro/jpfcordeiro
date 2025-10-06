@@ -78,8 +78,8 @@
 
 <h3 align="center">GitHub Stats: <img src="https://cdn3.emoji.gg/emojis/94843-fire-ball.gif" width="48px" height="48px" alt="Yeah!"></h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpfcordeiro&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfcordeiro&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpfcordeiro&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfcordeiro&layout=compact&langs_count=10"/>
 </div>
 
 <h3 align="center">Contributions in the last year: <img src="https://cdn3.emoji.gg/emojis/89791-b-handshake.png" width="48px" height="48px" alt="You're my bro!"></h3>
