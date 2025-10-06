@@ -18,9 +18,6 @@
     <a href="https://open.spotify.com/intl-pt/artist/0SsoLRIRC2NSNaL6za7ZGk?si=IPun4P5lSY2t0Dspypu_tw" target="_blank">
       <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
     </a>
-  </p>
-
-  <p>
     <a href="https://www.tiktok.com/@sndhvnoficial?_t=ZM-90K5NAi98Zc&_r=1" target="_blank">
       <img src="https://img.shields.io/badge/Tiktok-black?logo=tiktok" alt="TikTok">
     </a>
@@ -81,8 +78,8 @@
 
 <h3 align="center">GitHub Stats: <img src="https://cdn3.emoji.gg/emojis/94843-fire-ball.gif" width="48px" height="48px" alt="Yeah!"></h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpfcordeiro&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=merko"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfcordeiro&layout=compact&langs_count=8&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpfcordeiro&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfcordeiro&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <h3 align="center">Contributions in the last year: <img src="https://cdn3.emoji.gg/emojis/89791-b-handshake.png" width="48px" height="48px" alt="You're my bro!"></h3>
