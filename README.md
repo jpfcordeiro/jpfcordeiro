@@ -14,13 +14,19 @@
 
 <h3 align="center">Support Me: <img src="https://cdn3.emoji.gg/emojis/88534-dancefela.gif" width="48px" height="48px" alt="Let's Dance"></h3>
 <div align="center">
-  <!-- Spotify Embed -->
-  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/artist/0SsoLRIRC2NSNaL6za7ZGk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-  <p><a href="https://open.spotify.com/intl-pt/artist/0SsoLRIRC2NSNaL6za7ZGk?si=IPun4P5lSY2t0Dspypu_tw" target="_blank">My Spotify</a></p>
+  <p>
+    <a href="https://open.spotify.com/intl-pt/artist/0SsoLRIRC2NSNaL6za7ZGk?si=IPun4P5lSY2t0Dspypu_tw" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Spotify_Logo_2015.svg" alt="Spotify" width="30" height="30"> Follow me on Spotify
+    </a>
+  </p>
 
-  <!-- TikTok Link -->
-  <p><a href="https://www.tiktok.com/@sndhvnoficial?_t=ZM-90K5NAi98Zc&_r=1" target="_blank">Follow me on TikTok</a></p>
+  <p>
+    <a href="https://www.tiktok.com/@sndhvnoficial?_t=ZM-90K5NAi98Zc&_r=1" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/TikTok_logo_2021.svg" alt="TikTok" width="30" height="30"> Follow me on TikTok
+    </a>
+  </p>
 </div>
+
 
 <h3 align="center">Languages and Tools: <img src="https://cdn3.emoji.gg/emojis/65551-colette-cry.gif" width="48px" height="48px" alt="Colette_Cry"></h3>
 <p align="center"> 
