@@ -50,7 +50,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; padding: 5px; border-radius: 8px;"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -78,8 +78,8 @@
 
 <h3 align="center">GitHub Stats: <img src="https://cdn3.emoji.gg/emojis/94843-fire-ball.gif" width="48px" height="48px" alt="Yeah!"></h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpfcordeiro&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfcordeiro&layout=compact&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpfcordeiro&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpfcordeiro&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 <h3 align="center">Contributions in the last year: <img src="https://cdn3.emoji.gg/emojis/89791-b-handshake.png" width="48px" height="48px" alt="You're my bro!"></h3>
