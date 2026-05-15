@@ -69,12 +69,12 @@
 
 <h3 align="center">📊 Analytics & Achievements</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jpfcordeiro/jpfcordeiro/main/profile-3d-contrib/profile-night-rainbow.svg" alt="github-profile-3d-contrib" />
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="github-profile-3d-contrib" />
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpfcordeiro/jpfcordeiro/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpfcordeiro/jpfcordeiro/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpfcordeiro/jpfcordeiro/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jpfcordeiro/jpfcordeiro/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/jpfcordeiro/jpfcordeiro/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/jpfcordeiro/jpfcordeiro/raw/output/github-contribution-grid-snake.svg">
   </picture>
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=jpfcordeiro&theme=radical&no-bg=true&column=7" alt="github trophies" />
