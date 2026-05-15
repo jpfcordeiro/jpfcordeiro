@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *" # Atualiza a cada 12 horas
@@ -8,7 +8,10 @@ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - uses: actions/checkout@v3
       - uses: Platane/snk@v3
         id: snake-gif
         with:
