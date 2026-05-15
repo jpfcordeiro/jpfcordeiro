@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm João <img src="https://cdn3.emoji.gg/emojis/319232-pet-pochita.gif" width="48px" height="48px" alt="Chainsaw Man fan? 😎"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f3802b&height=250&section=header&text=João%20Cordeiro&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://cdn3.emoji.gg/emojis/319232-pet-pochita.gif" width="60px" alt="Pochita">
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Analista+e+Desenvolvedor+de+Sistemas;Desenvolvedor+Multiplataforma;Buscando+sempre+aprender+novas+tecnologias!" alt="Typing SVG" />
@@ -63,11 +69,15 @@
 
 <h3 align="center">📊 Analytics & Achievements</h3>
 <div align="center">
+  <img src="https://raw.githubusercontent.com/jpfcordeiro/jpfcordeiro/main/profile-3d-contrib/profile-night-rainbow.svg" alt="github-profile-3d-contrib" />
+  <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpfcordeiro/jpfcordeiro/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpfcordeiro/jpfcordeiro/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jpfcordeiro/jpfcordeiro/output/github-contribution-grid-snake.svg">
   </picture>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=jpfcordeiro&theme=radical&no-bg=true&column=7" alt="github trophies" />
   <br><br>
   <img src="https://img.shields.io/github/followers/jpfcordeiro?style=for-the-badge&logo=github" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/jpfcordeiro?style=for-the-badge" alt="GitHub Stars" />
